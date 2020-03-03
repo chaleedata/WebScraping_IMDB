@@ -9,5 +9,5 @@ It is the process of extracting information and data from a website, transformin
 - how to use Beautifulsoup
 
 # Requirements:
-- [python](https://www.anaconda.com/distribution/)
+- [Python](https://www.anaconda.com/distribution/)
 - bs4
