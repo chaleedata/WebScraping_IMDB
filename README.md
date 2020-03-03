@@ -4,8 +4,10 @@ This project show process to build simple way scraps html file.I recommend that 
 # What is Web Scraping?
 It is the process of extracting information and data from a website, transforming the information on a webpage into structured data for further analysis. Web scraping is also known as web harvesting or web data extraction. With the overwhelming data available on the internet, web scraping has become the essential approach to aggregating Big Data sets.
 
-What you will learn from this post:
-- basic understanding of web scraping
-how to extract data from a website using classes and HTML tags
-how to use requests module to get data
-how to use Beautifulsoup
+# What you will learn from this post:
+- how to extract data from a website using classes and HTML tags
+- how to use Beautifulsoup
+
+# Requirements:
+- [python](https://www.anaconda.com/distribution/)
+- bs4
