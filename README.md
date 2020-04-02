@@ -6,7 +6,7 @@ It is the process of extracting information and data from a website, transformin
 
 # What you will learn from this post:
 - how to extract data from a website using classes and HTML tags
-- how to use Beautifulsoup
+- how to use Beautifulsoup 
 
 # Requirements:
 - [Python](https://www.anaconda.com/distribution/)
