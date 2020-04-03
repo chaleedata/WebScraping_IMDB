@@ -8,7 +8,7 @@ It is the process of extracting information and data from a website, transformin
 - how to extract data from a website using classes and HTML tags
 - how to use Beautifulsoup 
 
-# Requirements:
+# Requirements:  
 - [Python](https://www.anaconda.com/distribution/)
 - bs4
 
