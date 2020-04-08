@@ -11,7 +11,7 @@ It is the process of extracting information and data from a website, transformin
 # Requirements:  
 - [Python](https://www.anaconda.com/distribution/)
 - bs4
-
+ 
   
   
  
